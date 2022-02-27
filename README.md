@@ -6,3 +6,5 @@ generateObstacleMap, getStart, getEnd, toState, generateWorldModel, planToPath
 that can be find in the following file:
 
 src/aiplanning/AssignmentGlobalStructure.java
+
+Example of maps for the sokoban are the files basic_2.txt and easiest.txt above. 
